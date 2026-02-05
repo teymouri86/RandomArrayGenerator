@@ -1,0 +1,6 @@
+C:\Users\faty\Documents\Visual Studio 2015\Projects\Random_array\Random_array\bin\Debug\Random_array.exe.config
+C:\Users\faty\Documents\Visual Studio 2015\Projects\Random_array\Random_array\bin\Debug\Random_array.exe
+C:\Users\faty\Documents\Visual Studio 2015\Projects\Random_array\Random_array\bin\Debug\Random_array.pdb
+C:\Users\faty\Documents\Visual Studio 2015\Projects\Random_array\Random_array\obj\Debug\Random_array.csprojResolveAssemblyReference.cache
+C:\Users\faty\Documents\Visual Studio 2015\Projects\Random_array\Random_array\obj\Debug\Random_array.exe
+C:\Users\faty\Documents\Visual Studio 2015\Projects\Random_array\Random_array\obj\Debug\Random_array.pdb
